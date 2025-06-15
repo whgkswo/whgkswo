@@ -9,7 +9,7 @@
 **[MeetBTI](https://github.com/quokkavely/meetbti-app)**
 
 ## 학습자료 모음
-[![Notion](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)]([https://your-resume-notion-url.com](https://zealous-silica-66d.notion.site/b5d4808b5d454aa3a0d3456c1d94a01a))
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://zealous-silica-66d.notion.site/b5d4808b5d454aa3a0d3456c1d94a01a)
 
 ## 🛠️ 기술
 
