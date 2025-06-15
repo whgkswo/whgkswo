@@ -1,4 +1,4 @@
-## whgkswo 깃허브 입니다.
+![Image](https://github.com/user-attachments/assets/02a8dcdf-06ed-408c-a5c3-4a140807407f)
 
 ## 메일
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gjuk7238@gmail.com)
