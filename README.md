@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/02a8dcdf-06ed-408c-a5c3-4a140807407f)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/02a8dcdf-06ed-408c-a5c3-4a140807407f" alt="whgkswo's GitHub" width="500" style="border-radius: 15px;"/>
+</div>
 
 ## 메일
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gjuk7238@gmail.com)
