@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/02a8dcdf-06ed-408c-a5c3-4a140807407f" alt="whgkswo's GitHub" width="500"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=36BCF7&width=435&lines=주니어+개발자+whgkswo+의+github+입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://github.com/user-attachments/assets/1a04fd7e-5649-4739-bae8-6c2fcc65a4a7)
 
 ## 메일
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gjuk7238@gmail.com)
@@ -15,7 +15,7 @@
 ## 학습자료 모음
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://zealous-silica-66d.notion.site/b5d4808b5d454aa3a0d3456c1d94a01a)
 
-## 🛠️ 기술
+## 기술
 
 ### Language
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
