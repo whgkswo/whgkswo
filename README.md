@@ -41,9 +41,3 @@
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=whgkswo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whgkswo&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=whgkswo&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=whgkswo&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-![Profile views](https://komarev.com/ghpvc/?username=whgkswo&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/whgkswo?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/whgkswo?style=social)
