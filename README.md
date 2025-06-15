@@ -3,11 +3,11 @@
 </div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=안녕하세요.+주니어+개발자+whgkswo의+github입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hello!+I'm+junior+developer+whgkswo;Thank+you+for+visiting!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=안녕하세요.+주니어+개발자+whgkswo의+github입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+whgkswo;Thank+you+for+visiting!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=안녕하세요.+주니어+개발자+whgkswo의+github입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=36BCF7&lines=Hello+I'm+whgkswo;Backend+Developer;Thank+you+for+visiting)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=36BCF7&lines=안녕하세요.+주니어+개발자+whgkswo의+github입니다.;방문해+주셔서+감사합니다.)](https://readme-typing-svg.demolab.com)
 
 ## 메일
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gjuk7238@gmail.com)
