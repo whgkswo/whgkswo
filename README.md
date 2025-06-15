@@ -1,13 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/02a8dcdf-06ed-408c-a5c3-4a140807407f" alt="whgkswo's GitHub" width="500"/>
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=안녕하세요.+주니어+개발자+whgkswo의+github입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=안녕하세요.+주니어+개발자+whgkswo의+github입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=안녕하세요.+주니어+개발자+whgkswo의+github입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=36BCF7&lines=안녕하세요.+주니어+개발자+whgkswo의+github입니다.;방문해+주셔서+감사합니다.)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=안녕하세요.+주니어+개발자+whgkswo+의+github+입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
 
 ## 메일
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gjuk7238@gmail.com)
