@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/02a8dcdf-06ed-408c-a5c3-4a140807407f" alt="whgkswo's GitHub" width="500" style="border-radius: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/02a8dcdf-06ed-408c-a5c3-4a140807407f" alt="whgkswo's GitHub" width="500"/>
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=안녕하세요.+주니어+개발자+whgkswo의+github입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
 
 ## 메일
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gjuk7238@gmail.com)
@@ -37,3 +38,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=whgkswo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whgkswo&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=whgkswo&theme=radical)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=whgkswo&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile views](https://komarev.com/ghpvc/?username=whgkswo&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/whgkswo?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/whgkswo?style=social)
