@@ -14,13 +14,13 @@
 
 ## 주요 프로젝트
 
-<div align="center">
+<div>
 
-[![Toktalk](https://img.shields.io/badge/🗣️%20Toktalk-실시간%20채팅%20앱-4285F4?style=for-the-badge&labelColor=000000)](https://github.com/toktalk-application)
+[![Toktalk](https://img.shields.io/badge/🗣️%20Toktalk-실시간%20채팅%20상담%20어플리케이션-4285F4?style=for-the-badge&labelColor=000000)](https://github.com/toktalk-application)
 
-[![Shoecream](https://img.shields.io/badge/👟%20Shoecream-신발%20거래%20플랫폼-FF6B6B?style=for-the-badge&labelColor=000000)](https://github.com/shoe-cream)
+[![Shoecream](https://img.shields.io/badge/👟%20Shoecream-신발%20판매%20업체%20ERP-FF6B6B?style=for-the-badge&labelColor=000000)](https://github.com/shoe-cream)
 
-[![MeetBTI](https://img.shields.io/badge/💬%20MeetBTI-MBTI%20매칭%20서비스-A445B2?style=for-the-badge&labelColor=000000)](https://github.com/quokkavely/meetbti-app)
+[![MeetBTI](https://img.shields.io/badge/💬%20MeetBTI-MBTI%20기반%20커뮤니티-A445B2?style=for-the-badge&labelColor=000000)](https://github.com/quokkavely/meetbti-app)
 
 </div>
 
