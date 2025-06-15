@@ -4,12 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=36BCF7&width=435&lines=주니어+개발자+whgkswo+의+github+입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Code&duration=1000&pause=1000&color=36BCF7&width=435&lines=주니어+개발자+whgkswo+의+github+입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins+Code&duration=1000&pause=1000&color=36BCF7&width=435&lines=주니어+개발자+whgkswo+의+github+입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans+Code&duration=1000&pause=1000&color=36BCF7&width=435&lines=주니어+개발자+whgkswo+의+github+입니다.;방문해+주셔서+감사합니다.)](https://git.io/typing-svg)
-
 ## 메일
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gjuk7238@gmail.com)
 
