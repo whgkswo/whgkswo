@@ -13,9 +13,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gjuk7238@gmail.com)
 
 ## 주요 프로젝트
-**[Toktalk](https://github.com/toktalk-application)**
-**[Shoecream](https://github.com/shoe-cream)**
-**[MeetBTI](https://github.com/quokkavely/meetbti-app)**
+<div align="center">
+
+| 프로젝트 | 설명 | 기술스택 |
+|:---:|:---:|:---:|
+| **[🗣️ Toktalk](https://github.com/toktalk-application)** | 우울증 실시간 채팅상담 모바일 애플리케이션 | `Spring Boot` `React` `WebSocket` |
+| **[👟 Shoecream](https://github.com/shoe-cream)** | 신발판매업체 ERP | `Java` `Spring` `MySQL` |
+| **[💬 MeetBTI](https://github.com/quokkavely/meetbti-app)** | MBTI 기반 커뮤니티 플랫폼 | `React` `TypeScript` `Node.js` |
+
+</div>
 
 ## 학습자료 모음
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://zealous-silica-66d.notion.site/b5d4808b5d454aa3a0d3456c1d94a01a)
