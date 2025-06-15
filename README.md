@@ -2,7 +2,12 @@
   <img src="https://github.com/user-attachments/assets/02a8dcdf-06ed-408c-a5c3-4a140807407f" alt="whgkswo's GitHub" width="500"/>
 </div>
 
-[![Typing SVG](https://github.com/user-attachments/assets/1a04fd7e-5649-4739-bae8-6c2fcc65a4a7)
+<div align="center">
+  주니어 개발자 whgkswo의 깃허브입니다.
+</div>
+<div align="center">
+  방문해 주셔서 감사합니다.
+</div>
 
 ## 메일
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gjuk7238@gmail.com)
